@@ -2,7 +2,7 @@
 
 Sou o Marcos mas sou mais conhecido como "Strapa" por onde trabalhei :) 
 
-+ de 20 anos nessa indústria vital
+ \+ de 20 anos nessa indústria vital
 
 Coisas q eu gosto, trabalho e uso diariamente:
 
