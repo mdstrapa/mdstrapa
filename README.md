@@ -1,10 +1,10 @@
-### Hello visitante!
+### Hello visitor!
 
-Sou o Marcos mas sou mais conhecido como "Strapa" por onde trabalhei :) 
+I'm Marcos but everyone calls me "Strapa" where I have worked in.
 
- \+ de 20 anos nessa indústria vital
+ \+ of 20 years of experience in the Tech world. Btw, the first language I had contact with was Borland Delphi 5 
 
-Coisas q eu gosto, trabalho e uso diariamente:
+Things I like, work with and are part of my life in a daily basis:
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
