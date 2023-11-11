@@ -1,8 +1,8 @@
 ### Hello visitor!
 
-I'm Marcos but everyone calls me "Strapa".
+I'm Marcos and I currently live in Porto Alegre - Brazil.
 
- 20+ years of experience in the Tech world. Btw, the first language I had contact with was Borland Delphi 5 👨🏼‍🦳
+20+ years of experience in the Tech world. Btw, the first language/technology I learned was Borland Delphi 5 👨🏼‍🦳
 
 Things I like, work with and are part of my life in a daily basis:
 
